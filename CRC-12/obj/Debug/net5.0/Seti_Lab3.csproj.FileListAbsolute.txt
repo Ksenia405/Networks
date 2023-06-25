@@ -1,0 +1,16 @@
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\Seti_Lab3.exe
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\Seti_Lab3.deps.json
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\Seti_Lab3.runtimeconfig.json
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\Seti_Lab3.runtimeconfig.dev.json
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\Seti_Lab3.dll
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\ref\Seti_Lab3.dll
+C:\Users\Ksenia\source\repos\Seti_Lab3\bin\Debug\net5.0\Seti_Lab3.pdb
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.csproj.AssemblyReference.cache
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.AssemblyInfoInputs.cache
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.AssemblyInfo.cs
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.dll
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\ref\Seti_Lab3.dll
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.pdb
+C:\Users\Ksenia\source\repos\Seti_Lab3\obj\Debug\net5.0\Seti_Lab3.genruntimeconfig.cache

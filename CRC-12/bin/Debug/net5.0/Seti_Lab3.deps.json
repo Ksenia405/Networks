@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Seti_Lab3/1.0.0": {
+        "runtime": {
+          "Seti_Lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seti_Lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\bin\Debug\StormCloud_ver1.6.exe.config
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\bin\Debug\StormCloud_ver1.6.exe
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\bin\Debug\StormCloud_ver1.6.pdb
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\obj\Debug\StormCloud_ver1._6.Form1.resources
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\obj\Debug\StormCloud_ver1._6.Properties.Resources.resources
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\obj\Debug\StormCloud_ver1.6.csproj.GenerateResource.cache
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\obj\Debug\StormCloud_ver1.6.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\obj\Debug\StormCloud_ver1.6.exe
+C:\Users\Ksenia\source\repos\StormCloud_ver1.6\obj\Debug\StormCloud_ver1.6.pdb
